@@ -1,0 +1,13 @@
+/* [***] @imports */
+/* [#] Main */
+@import 'colors.css';
+@import 'assets-links.css';
+/* [#] Components */
+@import '/Components/NavBar/nav.css';
+
+/* [***] Backgorund Images */
+._M0-img-center {
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
+}

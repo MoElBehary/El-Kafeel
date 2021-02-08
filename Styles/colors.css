@@ -1,0 +1,30 @@
+/* [***] Backgrounds */
+/* [#] main ( Green ) */
+._M0-bg-main{
+    background-color: #699E23 !important;
+}
+/* [#] shadow  ( Light Gray )  */
+._M0-bg-shadow{
+    background-color: #F1F2F2 !important;
+}
+/* [#] support ( White ) */
+._M0-bg-sup{
+    background-color: #FFFFFF !important;
+}
+/* [#] touch ( Yellow ) */
+._M0-bg-touch{
+    background-color: #FFC107 !important;
+}
+/* [***] Colors */
+/* [#] text  ( Black ) */
+._M0-co-text{
+    color: #202020 !important;
+}
+/* [#] text supp  ( Dark Gray ) */
+._M0-co-supp{
+    color: #777777 !important;
+}
+/* [#] text light ( mid Gray ) */
+._M0-co-light{
+    color: #959595 !important;
+}
